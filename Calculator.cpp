@@ -1,8 +1,5 @@
-/**  
- * @file Calculator.cpp  
- * @brief Implementation of the Calculator class.  
- */
 
+//removed comments
 #include "Calculator.h"
 #include <stdexcept>
 
